@@ -1,0 +1,3 @@
+[submodule "brc-gate-pharmacotherapy"]
+	path = brc-gate-pharmacotherapy
+	url = https://github.com/KHP-Informatics/brc-gate-pharmacotherapy.git

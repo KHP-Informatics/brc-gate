@@ -1,0 +1,2 @@
+# Place these files in the same folder as the zipped extractions folder from webanno. This is essential for the code to work.
+# The unzipped individual xmi files will be renamed and added to a new folder called "results".
